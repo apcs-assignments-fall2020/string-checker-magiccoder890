@@ -22,7 +22,7 @@ public class MyMain {
             }
         }
         System.out.print("There are "+ a_number + " as, and " + b_number + " bs, and " + c_number + " cs.");
-        return a_number;
+        return a_number + b_number + c_number;
         
     }
 
